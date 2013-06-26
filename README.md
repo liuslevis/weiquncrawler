@@ -32,13 +32,7 @@ If you need one in English, just let me know.
 
 1 安装 Python 2.7.3 IDE,Win 下安装包下载地址: http://www.python.org/ftp/python/2.7.3/python-2.7.3.msi
 
-2 安装 JAVA SDK(JDK) 1.6 或以上,确保在命令行输入 java -version 能查看版
-本,下载地址: http://www.oracle.com/technetwork/java/javase/downloads/index.html
-
-3 安装 Maven:Win 下,解压附带光盘 tool 文件夹的 maven 压缩文件到 c:\mvn3,
-并把 c:\mvn3\bin 添加到计算机的 PATH,确保在命令行输入 mvn 或 mvn.bat 能启动 maven。
-
-4 安装 SQLite3 数据库文件查看器:sqliteadmin,Win 下安装包见附带光盘 tool 文件夹。
+2 安装 SQLite3 数据库文件查看器:sqliteadmin,Win 下安装包见附带光盘 tool 文件夹。
 
 使用说明:
 
