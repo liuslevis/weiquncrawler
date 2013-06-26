@@ -5,7 +5,9 @@ weiquncrawler
   Written in Python 2.7.1, store data in SQLite3.
   Relation-crawling part customized on Github Project sina_reptile.
   
-  Most comment of source code is written in Chinese.
+  It crawls Weiqun info by the way of downloading the WAP website, and crawls user relation using API( OAuth 1.0 ).
+  
+  Most comments on source code is written in Chinese.
   
   
   Abstract
