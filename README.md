@@ -9,7 +9,7 @@ weiquncrawler
   
   Most comments on source code is written in Chinese.
   
-  多线程爬取指定新浪微群的消息，回复，转发，发帖用户，发帖用户的所有关注关系。
+  爬取指定新浪微群的消息，回复，转发，发帖用户，发帖用户的所有关注关系，通过多线程、异步、可持续增量下载的方法。
   
   
   Abstract
