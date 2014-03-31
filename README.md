@@ -24,17 +24,8 @@ weiquncrawler
 
 If you need one in English, just let me know.
 
-环境要求:
 
-操作系统:Windows XP 或以上,Mac OS 10.8 或以上,Linux
-
-运行环境:安装 Python 2.7.3,JAVA 虚拟机 1.6 或以上,Apache Maven 工具。
-
-环境配置:
-
-1 安装 Python 2.7.3 IDE,Win 下安装包下载地址: http://www.python.org/ftp/python/2.7.3/python-2.7.3.msi
-
-2 安装 SQLite3 数据库文件查看器:sqliteadmin,Win 下安装包见附带光盘 tool 文件夹。
+运行环境:安装 Python 2.7.3 , SQLite3
 
 使用说明:
 
@@ -58,7 +49,7 @@ sqlite3 数据库文件可以用 sqliteadmin 软件查看。
 在源代码根目录的文件 crawlertest.txt 中填好 API 密钥,填的行数即为爬虫线程。 密钥从 crawler.txt 中复制即可,每行为一个密钥。
 在终端进入源代码根目录,执行 python sina_reptile.py。 查看结果:结果储存在『../users.db』sqlite3 数据库文件中。
 
-3 生成用户关系对文本文件:
+3 对文本文件生成用户关系:
 
 在源代码根目录执行:python getRelation.py
 此时,脚本会读取 weiqun2download.txt 的微群号,从 微群 ID.db 读取用户,从
