@@ -14,6 +14,8 @@ weiquncrawler
   爬取发帖用户的所有关注关系。
   多线程下载，可中断后继续下载，获得数据存储与SQLite数据库中。
   
+  用户关系爬虫使用https://github.com/gnemoug/sina_reptile
+  
   
   Abstract
 =============
